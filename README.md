@@ -6,10 +6,9 @@ This repository contains a comprehensive dataset on microalgae cultivation in co
 
 1. [Dataset Overview](#dataset-overview)
 2. [File Descriptions](#file-descriptions)
-3. [Data Sources](#data-sources)
-4. [Usage](#usage)
-5. [License](#license)
-6. [Contact](#contact)
+3. [Usage](#usage)
+4. [License](#license)
+5. [Contact](#contact)
 
 ## Dataset Overview
 
@@ -19,7 +18,7 @@ The `Column_PBR_dataset_ICEE_2024` dataset is intended to support research on th
 - **Year:** The year the data was collected.
 - **Location:** The geographical location of the experiment, including latitude and longitude.
 - **Reactor Dimensions:** Diameter and height of the column photobioreactor.
-- **Flow Pattern:** The design of the photobioreactor, categorized as bubble, split column airlift, internal loop airlift, or internal loop airlift with gas separator.
+- **Flow Pattern:** The design of the photobioreactor, categorized as bubble, split column airlift, internal loop airlift, or internal loop airlift with gas separator, etc.
 - **Reactor Volume:** The total volume of the reactor in cubic meters.
 - **Biomass Productivity:** The maximum biomass productivity recorded in milligrams per liter per day (mg/L*day).
 - **Biomass Concentration:** The maximum biomass concentration recorded in milligrams per liter (mg/L).
@@ -29,10 +28,6 @@ The `Column_PBR_dataset_ICEE_2024` dataset is intended to support research on th
 - **`Column_PBR_dataset.csv`**: The main dataset containing all variables related to microalgae cultivation in column PBRs.
 - **`analysis_code.ipynb`**: A Jupyter Notebook that includes analysis scripts used in the research. This code was used to generate the visualizations and results presented at ICEE 2024.
 - **`LICENSE`**: The license under which the dataset is shared.
-
-## Data Sources
-
-The dataset was compiled from various reputable sources, including peer-reviewed journals and scientific publications from Elsevier, ACS, and others. A detailed list of sources can be found in the `data_sources.md` file.
 
 ## Usage
 
