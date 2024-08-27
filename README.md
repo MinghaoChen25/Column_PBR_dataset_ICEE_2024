@@ -27,7 +27,6 @@ The `Column_PBR_dataset_ICEE_2024` dataset is intended to support research on th
 ## File Descriptions
 
 - **`Column_PBR_dataset.csv`**: The main dataset containing all variables related to microalgae cultivation in column PBRs.
-- **`data_sources.md`**: A markdown file listing all sources used to compile the dataset, including academic articles, journals, and other references.
 - **`analysis_code.ipynb`**: A Jupyter Notebook that includes analysis scripts used in the research. This code was used to generate the visualizations and results presented at ICEE 2024.
 - **`LICENSE`**: The license under which the dataset is shared.
 
@@ -47,7 +46,7 @@ Researchers and developers can use this dataset to:
 
 If you use this dataset in your research, please cite it as follows:
 
-Chen, Minghao, et al. (2024). Column PBR Dataset for Microalgae Cultivation. International Conference on Energy Engineering (ICEE) 2024. Available at: https://github.com/MinghaoChen25/Column_PBR_dataset_ICEE_2024
+Chen, Minghao, et al. (2024). Analysis of Column Photobioreactors for Microalgae Cultivation: Trends in Productivity and Geographical Influences. International Conference on Energy Engineering (ICEE) 2024. Available at: https://github.com/MinghaoChen25/Column_PBR_dataset_ICEE_2024
 
 ## License
 
